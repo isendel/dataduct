@@ -37,6 +37,7 @@ FEQUENCY_PERIOD_CONVERTION = {
     '8-hours': ('8 hours', None),
     '12-hours': ('12 hours', None),
     '5-minutes': ('5 minutes', None),
+    '15-minutes': ('15 minutes', None),
     'one-time': ('15 minutes', 1),
 }
 
